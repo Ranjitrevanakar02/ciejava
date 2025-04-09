@@ -5,7 +5,8 @@ public class simpleinterset {
     int T=2;
 
     float SI=(P*T*R)/100;
-
+    
+    System.out.println("this a master branch");
     System.err.println("The simple Intreset of PTR is"+SI);
    }
 }
